@@ -1,0 +1,10 @@
+1. Create Database with the name of logixxtuts
+2. Import the logixxtuts.sql file into your created database using Phpmyadmin. 
+3. Change configuration in db.php file if you created the database name with different name.
+4. Set database username and password according to your database username and password (Default username is root and password is empty).
+
+
+Enjoy!
+
+Subscribe our youtube channel 
+https://www.youtube.com/logixxtuts/
